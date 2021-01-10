@@ -1,2 +1,4 @@
 # light_tv_alert
-Kotlin, Retrofit (incl. Room), Jetpack, 
+Language: Kotlin
+Frameworks: Retrofit, Jetpack (incl. Room)
+Api: https://developers.themoviedb.org/
